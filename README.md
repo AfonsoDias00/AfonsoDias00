@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm and Engineering Physics student
 <!--
 **AfonsoDias00/AfonsoDias00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
